@@ -11,4 +11,5 @@ thead: groups the table header rows
 tbody: groups table data rows
 tfoot: groups footer rows
 
-span[class~="sr-only"] explain
+span[class~="sr-only"] 
+this targets the spans in sr-only 
