@@ -13,3 +13,5 @@ tfoot: groups footer rows
 
 span[class~="sr-only"] 
 this targets the spans in sr-only 
+
+div
